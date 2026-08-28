@@ -2,7 +2,9 @@
  
 https://github.com/cindyalivia/parkirterminalgiwangan/blob/main/WhatsApp%20Image%202026-08-28%20at%2010.32.57.jpeg?raw=true
 
+
 UX design : Case Diagram , Activity Diagram , Algoritma 
+https://raw.githubusercontent.com/cindyalivia/parkirterminalgiwangan/refs/heads/main/WhatsApp%20Image%202026-08-28%20at%2010.55.08.jpeg
 
 🚗 Giwangan Parking
 
