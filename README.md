@@ -1,6 +1,9 @@
  Wireframe(Perancangan):  Mockup UI(Perencanaan Tampilan) , Flowchart Userflow , ERD(Entity Relation ship Diagram)
+ 
 https://github.com/cindyalivia/parkirterminalgiwangan/blob/main/WhatsApp%20Image%202026-08-28%20at%2010.32.57.jpeg?raw=true
+
 UX design : Case Diagram , Activity Diagram , Algoritma 
+
 🚗 Giwangan Parking
 
 Giwangan Parking adalah aplikasi berbasis web yang dibuat untuk membantu pengelolaan sistem parkir secara lebih mudah, cepat, dan terorganisir.
