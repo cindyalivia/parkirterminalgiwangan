@@ -4,6 +4,7 @@
  
 UX design : Case Diagram , Activity Diagram , Algoritma 
 [Lihat UX Design](https://raw.githubusercontent.com/cindyalivia/parkirterminalgiwangan/refs/heads/main/WhatsApp%20Image%202026-08-28%20at%2010.55.08.jpeg)
+
 🚗 Giwangan Parking
 
 Giwangan Parking adalah aplikasi berbasis web yang dibuat untuk membantu pengelolaan sistem parkir secara lebih mudah, cepat, dan terorganisir.
